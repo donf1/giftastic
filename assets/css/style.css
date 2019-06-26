@@ -1,0 +1,25 @@
+body {
+    background-image: url("http://getwallpapers.com/wallpaper/full/2/6/3/606484.jpg");
+}
+
+h1 {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 50px;
+    color: white;
+    
+}
+
+p {
+    font-family: 'Libre Franklin', sans-serif;
+    color: white;
+    padding: 15px;
+}
+
+#form {
+    font-family: 'Libre Franklin', sans-serif;
+    color: white;
+}
+
+#submitButton {
+    font-family: 'Libre Franklin', sans-serif;
+}
